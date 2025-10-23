@@ -51,6 +51,8 @@ class Config:
         'cifar10_feat': cifar10_feat,
         'racket_sports':racket_sports,
         'fmnist':fmnist,
+        'timesead_smd_w128_s64': timesead_smd_w128_s64,
+        'timesead_smd_w128_s32': timesead_smd_w128_s32,
     }
 
     models = {

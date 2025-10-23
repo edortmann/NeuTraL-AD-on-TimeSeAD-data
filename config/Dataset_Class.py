@@ -45,6 +45,12 @@ class epilepsy():
 class racket_sports():
     data_name = "racket_sports"
     num_cls =4
+class timesead_smd_w128_s64():
+    data_name = "timesead_smd_w128_s64"
+    num_cls = 1
+class timesead_smd_w128_s32():
+    data_name = "timesead_smd_w128_s32"
+    num_cls = 1
 
 # image datasets
 class fmnist():
