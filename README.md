@@ -51,12 +51,12 @@ NeuTraL-AD/
 
 ---
 
-## 2) Create a minimal config file
+## 2) Create a +config file
 
-1) **Copy** a time-series config (e.g., `config_files/config_arabic.yml`) to  
+1) Copy a time-series config (e.g., `config_files/config_arabic.yml`) to  
    `config_files/config_smd.yml`
 
-2) **Edit only what you need**:
+2) Edit parameters:
    - Set **`x_length: 128`** (must match the `--win` used during export).
    - Set **`result_folder:`** to where you want outputs, e.g.  
      `RESULTS/`
