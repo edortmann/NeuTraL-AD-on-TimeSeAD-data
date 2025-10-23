@@ -51,7 +51,7 @@ NeuTraL-AD/
 
 ---
 
-## 2) Create a +config file
+## 2) Create a config file
 
 1) Copy a time-series config (e.g., `config_files/config_arabic.yml`) to  
    `config_files/config_smd.yml`
